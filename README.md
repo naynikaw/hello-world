@@ -1,2 +1,3 @@
 # hello-world
-new project
+Hi Earthlings!
+Starshine says hello!
